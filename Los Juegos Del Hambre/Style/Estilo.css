@@ -1,0 +1,9 @@
+body{
+    background-image: url(https://www.themoviedb.org/t/p/original/nKDvDVSaFFBrQr0NoPiyasEN8Mk.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+mark{
+    background-color: lightskyblue;
+}

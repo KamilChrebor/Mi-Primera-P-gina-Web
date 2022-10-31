@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.rpY9Ia78ucPbN3PfJ8JzPQHaEK?pid=ImgDet&rs=1);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+mark{
+    background-color: lightskyblue;
+}
+marquee{
+    color:lightskyblue;
+    font-size: 50px;
+    font-family:fantasy;
+}
+table, td, tr, th{
+    border:2px solid azure;
+    color:whitesmoke;      
+}
+table{
+    border-collapse: collapse;
+    font-size: 20px;
+}
+td{
+    font-size: 30px;
+}

@@ -1,0 +1,15 @@
+body{
+    background-image: url(https://images5.alphacoders.com/594/thumb-1920-594575.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+mark{
+    background-color: lightskyblue;
+}
+marquee{
+    background-color: white;
+    color:lightskyblue;
+    font-size: 50px;
+    font-family:serif;
+}
